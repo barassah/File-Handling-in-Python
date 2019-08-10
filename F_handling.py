@@ -1,5 +1,5 @@
 #File Handling in python
-#creating and Deleting
+#creating and deleting
 import os
 #checking if file exists before creating 
 if os.path.exists('text.txt'):
